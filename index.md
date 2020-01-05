@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 当你看到这条消息时，说明你已经来到了younghahaha的世界
+## 欢迎第 一 位游客，王儿子
 
 You can use the [editor on GitHub](https://github.com/motivatedhaha/Young-hahaha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
